@@ -86,3 +86,15 @@ body {
   border: 0;
   margin-bottom: 15px;
 }
+
+.login-box p {
+  text-align: left;
+  font-size: 14px;
+  color: #555;
+  margin: 40px 0 50px;
+}
+
+.logon-box p a {
+  text-decoration: none;
+  color: #359cf0;
+}
