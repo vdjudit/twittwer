@@ -48,3 +48,19 @@ body {
   font-weight: 500;
   cursor: pointer;
 }
+
+.login-box hr {
+  border: 0;
+  height: 1px;
+  background: #c2c2c2;
+  margin: 5px;
+}
+
+.login-box span {
+  display: block;
+  width: 40px;
+  margin: auto;
+  background: #fff;
+  font-size: 14px;
+  margin-top: -16px;
+}
